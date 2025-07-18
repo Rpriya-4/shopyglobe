@@ -18,9 +18,14 @@ ShoppyGlobe is a simple and clean e-commerce web application built using **React
 
 ---
 
+
 ##  Getting Started
 
 ### 1. Clone the Repository
 
+
 ```bash
 cd shoppyglobe
+
+  ## Github Repository 
+  https://github.com/Rpriya-4/shopyglobe
